@@ -1,4 +1,4 @@
-# Investigating systemic racial bias in federal prisons
+# Actuarial sentencing and Bias Behind Bars
 
 ![The first page of an anonymous prisoner’s Custody Rating Scale form](https://assets.documentcloud.org/documents/7274424/pages/CRS-assessment-form-p1-large.gif)
 _The first page of an anonymous prisoner’s Custody Rating Scale form._
