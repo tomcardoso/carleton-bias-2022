@@ -3,7 +3,7 @@
 ![The first page of an anonymous prisoner’s Custody Rating Scale form](https://assets.documentcloud.org/documents/7274424/pages/CRS-assessment-form-p1-large.gif)
 _The first page of an anonymous prisoner’s Custody Rating Scale form._
 
-This is the repository for a talk on an investigation into systemic bias in Canada's federal prison risk assessments. The slides can be found here: https://tomcardoso.github.io/carleton-bias-2021/
+This is the repository for a talk on an investigation into systemic bias in Canada's federal prison risk assessments. The slides can be found here: https://tomcardoso.github.io/carleton-bias-2022/
 
 This talk was originally given to the Digital Criminology (CRCJ3202) class at Carleton University on September 28, 2022. Here’s a brief description of the work discussed:
 
